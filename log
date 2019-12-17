@@ -34,3 +34,18 @@
    34  pwd
    35  history
    36  history > log
+   37  ls
+   38  history > d/sample/log
+   39  vi log
+   40  git status
+   41  git push -u origin master
+   42  vi form
+   43  git status
+   44  git add .
+   45  git add form
+   46  git commit -m "HTML Contact form"
+   47  git push
+   48  git log
+   49  git show 7e68397ba9239a7fda3d579b0e0cac32fc2dd015
+   50  history
+   51  history > log
