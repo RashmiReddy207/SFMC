@@ -1,0 +1,36 @@
+    1  git --version
+    2  git --version
+    3  pwd
+    4  ls
+    5  ls -a
+    6  ls -lrt
+    7  clear
+    8  git branch
+    9  git init
+   10  ls -la
+   11  git config --global user.name "Rashmitha"
+   12  git config --list
+   13  git config --global user.email "rashmibangaru207@gmail.com"
+   14  git config --global --list
+   15  pwd
+   16  ls -a
+   17  git status
+   18  touch Test
+   19  ls
+   20  git status
+   21  git add Test
+   22  git status
+   23  git commit -m "First Message" 
+   24  git status
+   25  git log
+   26  ls
+   27  git push
+   28  git remote add https://github.com/RashmiReddy207/SFMC.git
+   29  git push
+   30  git remote add origin https://github.com/RashmiReddy207/SFMC.git
+   31  git remote -v
+   32  git remote 
+   33  git remote -v
+   34  pwd
+   35  history
+   36  history > log
